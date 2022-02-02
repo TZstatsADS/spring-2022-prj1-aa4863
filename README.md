@@ -15,9 +15,9 @@ This project is conducted by Aakanksha Agarwal (UNI - aa4863)
 
 **Project summary:**
 
-In the below analyses, I used the philosphy data with more than 350 thousand rows to understand the underlying 'School of thoughts' of philosophy and also the authors who have contributed towards it.
+For the project, I used the philosphy data with more than 350 thousand rows to understand the underlying 'School of thoughts' of philosophy and also the authors who have contributed towards it. I utilized Python libraries for plots, text mining, word cloud and sentiment analysis for the same. 
 
-I utilized Python libraries for plots, text mining, word cloud and sentiment analysis for the same. The analyses are divided into four sections:
+The analyses are divided into four sections:
 
 * Timelines for 'School of Thoughts'
 * Most frequently used words among the schools and how they fit with the thought principle
