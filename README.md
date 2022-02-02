@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Spring 2022
-## Project 1: A "data story" on the history of philosophy
+## Project 1: Feel the Philosophy
 
 <img src="figs/philosophy_home_940px.jpg" width="500">
 
