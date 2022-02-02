@@ -2,18 +2,30 @@
 ## Fall 2021
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
+<img src="figs/philosophy_home_940px.jpg" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
 
-Term: Fall 2021
+**Term:** Spring 2022
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
+**Project title:** Feel the Philosophy: Insight into Schools and Authors
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is conducted by Aakanksha Agarwal (UNI - aa4863)
 
+**Project summary:**
+
+In the below analyses, I used the philosphy data with more than 350 thousand rows to understand the underlying 'School of thoughts' of philosophy and also the authors who have contributed towards it.
+
+I utilized Python libraries for plots, text mining, word cloud and sentiment analysis for the same. The analyses are divided into four sections:
+
+* Timelines for 'School of Thoughts'
+* Most frequently used words among the schools and how they fit with the thought principle
+* Do the School of thoughts overlap?
+* Looking into the Philosophers:
+    * How the sentence complexity varies for each author?
+    * Emotion and Sentiment analysis for each author
+    
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
